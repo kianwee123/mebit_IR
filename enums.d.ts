@@ -2,8 +2,8 @@
 
 
     declare const enum RemoteButton {
-    Power = 0x0,
-    Up = 0x1,
+    Power = 0x45,
+    Up = 0x47,
     Left = 0x4,
     Right = 0x6,
     Down = 0x9,
