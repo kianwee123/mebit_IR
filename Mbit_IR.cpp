@@ -30,7 +30,8 @@ enum class RemoteButton {
 			Num6=0x5A,
 			Num7=0x42,
 			Num8=0x52,
-			Num9=0x4A
+			Num9=0x4A,
+			BEEP=0x5
 };
 
 enum class Pins{
