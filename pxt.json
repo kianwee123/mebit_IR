@@ -1,7 +1,7 @@
 {
-    "name": "bitbot_IR",
+    "name": "mebit_IR",
     "version": "1.0.0",
-    "description": "Extension",
+    "description": "Extension for MeBit micro:bit IR receiver module 1.0.0",
     "dependencies": {
         "core": "*"
     },
