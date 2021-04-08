@@ -11,17 +11,17 @@
     "RemoteButton.Left|block": "左键",
     "RemoteButton.Play|block": "播放键",
     "RemoteButton.Right|block": "右键",
-    "RemoteButton.Num0|block": "数字0",
+    "RemoteButton.NUM0|block": "数字0",
     "RemoteButton.Minus|block": "-号键",
     "RemoteButton.Cancle|block": "取消键",
-    "RemoteButton.Num1|block": "数字1",
-    "RemoteButton.Num2|block": "数字2",
-    "RemoteButton.Num3|block": "数字3",
-    "RemoteButton.Num4|block": "数字4",
-    "RemoteButton.Num5|block": "数字5",
-    "RemoteButton.Num6|block": "数字6",
-    "RemoteButton.Num7|block": "数字7",
-    "RemoteButton.Num8|block": "数字8",
-    "RemoteButton.Num9|block": "数字9"
+    "RemoteButton.NUM1|block": "数字1",
+    "RemoteButton.NUM2|block": "数字2",
+    "RemoteButton.NUM3|block": "数字3",
+    "RemoteButton.NUM4|block": "数字4",
+    "RemoteButton.NUM5|block": "数字5",
+    "RemoteButton.NUM6|block": "数字6",
+    "RemoteButton.NUM7|block": "数字7",
+    "RemoteButton.NUM8|block": "数字8",
+    "RemoteButton.NUM9|block": "数字9"
   }
   

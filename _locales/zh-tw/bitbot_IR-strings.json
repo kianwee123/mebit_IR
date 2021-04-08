@@ -11,17 +11,17 @@
     "RemoteButton.Left|block": "左鍵",
     "RemoteButton.Play|block": "播放鍵",
     "RemoteButton.Right|block": "右鍵",
-    "RemoteButton.Num0|block": "數位0",
+    "RemoteButton.NUM0|block": "數位0",
     "RemoteButton.Minus|block": "-號鍵",
     "RemoteButton.Cancle|block": "取消鍵",
-    "RemoteButton.Num1|block": "數位1",
-    "RemoteButton.Num2|block": "數位2",
-    "RemoteButton.Num3|block": "數位3",
-    "RemoteButton.Num4|block": "數位4",
-    "RemoteButton.Num5|block": "數位5",
-    "RemoteButton.Num6|block": "數位6",
-    "RemoteButton.Num7|block": "數位7",
-    "RemoteButton.Num8|block": "數位8",
-    "RemoteButton.Num9|block": "數位9"
+    "RemoteButton.NUM1|block": "數位1",
+    "RemoteButton.NUM2|block": "數位2",
+    "RemoteButton.NUM3|block": "數位3",
+    "RemoteButton.NUM4|block": "數位4",
+    "RemoteButton.NUM5|block": "數位5",
+    "RemoteButton.NUM6|block": "數位6",
+    "RemoteButton.NUM7|block": "數位7",
+    "RemoteButton.NUM8|block": "數位8",
+    "RemoteButton.NUM9|block": "數位9"
   }
   
