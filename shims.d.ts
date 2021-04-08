@@ -4,7 +4,7 @@
     /**
      */
 
-    declare namespace bitbot_IR {
+    declare namespace mebit_IR {
     }
     
     // Auto-generated. Do not edit. Really.

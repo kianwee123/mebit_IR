@@ -1,8 +1,8 @@
 {
   
-    "bitbot_IR.init|block": "連接紅外接收器到引腳 %pin",
-    "bitbot_IR.onPressEvent|block": "當按鈕 |%btn| 被按下時",
-    "bitbot_IR|block": "MeBit紅外遙控",
+    "mebit_IR.init|block": "連接紅外接收器到引腳 %pin",
+    "mebit_IR.onPressEvent|block": "當按鈕 |%btn| 被按下時",
+    "mebit_IR|block": "MeBit紅外遙控",
     "RemoteButton.Power|block": "電源",
     "RemoteButton.Menu|block": "選單鍵",
     "RemoteButton.Test|block": "測試鍵",
