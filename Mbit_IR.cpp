@@ -29,6 +29,7 @@ enum class RemoteButton {
 	  Right = 0x09,
 	  //% block=Minus
 	  Minus = 0x19,
+	  //% block=Cancle
 	  Cancle = 0x0D,
 	  //% block=Num0
 	  NUM0 = 0x16,
