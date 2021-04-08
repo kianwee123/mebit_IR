@@ -1,7 +1,27 @@
 {
   
     "bitbot_IR.init|block": "连接红外接收器到引脚 %pin",
-    "bitbot_IR.onPressEvent|block": "当按钮 |%btn| 被按下时"
-
+    "bitbot_IR.onPressEvent|block": "当按钮 |%btn| 被按下时",
+    "bitbot_IR|block": "MeBit红外遥控",
+    "RemoteButton.Power|block": "电源",
+    "RemoteButton.Menu|block": "菜单键",
+    "RemoteButton.Test|block": "测试键",
+    "RemoteButton.Plus|block": "+号键",
+    "RemoteButton.Return|block": "返回键",
+    "RemoteButton.Left|block": "左键",
+    "RemoteButton.Play|block": "播放键",
+    "RemoteButton.Right|block": "右键",
+    "RemoteButton.Num0|block": "数字0",
+    "RemoteButton.Minus|block": "-号键",
+    "RemoteButton.Cancle|block": "取消键",
+    "RemoteButton.Num1|block": "数字1",
+    "RemoteButton.Num2|block": "数字2",
+    "RemoteButton.Num3|block": "数字3",
+    "RemoteButton.Num4|block": "数字4",
+    "RemoteButton.Num5|block": "数字5",
+    "RemoteButton.Num6|block": "数字6",
+    "RemoteButton.Num7|block": "数字7",
+    "RemoteButton.Num8|block": "数字8",
+    "RemoteButton.Num9|block": "数字9"
   }
   
