@@ -1,7 +1,7 @@
 {
     "name": "mebit_IR",
-    "version": "1.0.0",
-    "description": "Extension for MeBit micro:bit IR receiver module 1.0.0",
+    "version": "1.0.1",
+    "description": "Extension for MeBit micro:bit IR receiver module 1.0.1",
     "dependencies": {
         "core": "*"
     },
@@ -14,10 +14,10 @@
         "ReceiverIR.h",
         "RemoteIR.h",
         "Mbit_IR.ts",
-        "_locales/zh-cn/bitbot_IR-strings.json",
-        "_locales/zh-cn/bitbot_IR-jsdoc-strings.json",
-        "_locales/zh-tw/bitbot_IR-strings.json",
-        "_locales/zh-tw/bitbot_IR-jsdoc-strings.json"
+        "_locales/zh-cn/mebit_IR-strings.json",
+        "_locales/zh-cn/mebit_IR-jsdoc-strings.json",
+        "_locales/zh-tw/mebit_IR-strings.json",
+        "_locales/zh-tw/mebit_IR-jsdoc-strings.json"
     ],
     "testFiles": [
         "test.ts"
